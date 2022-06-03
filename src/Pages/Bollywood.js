@@ -42,7 +42,8 @@ const Bollywood = () => {
             <Block3
               ids= {c.id}
               imgUrl={c.image}
-              title={c.title}
+              title={c.title}              
+              description={c.description}
               date={c.date}
               category={c.category} />)
         })}
