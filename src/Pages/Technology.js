@@ -39,6 +39,7 @@ const Technology = () => {
           return (
             <Block3
               ids={c.id}
+              description={c.description}
               imgUrl={c.image}
               title={c.title}
               date={c.date}
