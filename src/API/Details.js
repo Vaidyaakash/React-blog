@@ -9,7 +9,7 @@ const DetailB = (props) => {
         {
             "title": "Kerala attracts 3.8 mn domestic tourists",
             "image": "https://www.financialexpress.com/wp-content/uploads/2022/05/1-850.jpg",
-            "description": "Overcoming the grim blow dealt by the COVID-19 pandemic, Kerala Tourism has bounced back clocking 3.8 million domestic tourists in the first quarter of 2022, marking an impressive growth of 72.48 per cent as compared to 2.2 million footfalls during the corresponding period of 2021, Tourism Minister P A Mohamed Riyas said on Wednesday.",
+            "description": "Overcoming the grim blow dealt by the COVID-19 pandemic, Kerala Tourism has bounced back clocking 3.8 million domestic tourists in the first quarter of 2022, on footfalls during the corresponding period of 2021, Tourism Minister P A Mohamed Riyas said on Wednesday.",
             "category": "Tourism",
             "date": "/December 27, 2021",
             "id": "0"
@@ -17,7 +17,7 @@ const DetailB = (props) => {
         {
             "title": "India's Neeraj Chopra says virus restrictions hit Olympic hopes",
             "image": "https://exchange4media.gumlet.io/news-photo/114826-neeraj-chopra-122321.jpg?w=400&dpr=2.6",
-            "description": "India's javelin star Neeraj Chopra said Wednesday that the lack of international competition because of coronavirus restrictions has badly hampered preparations for his first Olympic Games. Chopra, a farmer's son from a village outside of Delhi, became a track and field star after winning the javelin gold at the Commonwealth Games and Asian Games in 2018. Having qualified for the Tokyo Olympics last year.",
+            "description": "India's javelin star Neeraj Chopra said Wednesday that the lack of international competition because of coronavirus restrictions has badly hampered preparations for his first Olympic Games. Chopra, a farmer's son from a village outside of Delhi became a track .",
             "category": "Sports",
             "date": "/January 27, 2022",
             "id": "48"
@@ -25,7 +25,7 @@ const DetailB = (props) => {
         {
             "title": "Best Tech News Mobile Apps For Android in 2022",
             "image": "https://i0.wp.com/itechviral.com/wp-content/uploads/2020/08/18-best-technology-apps-for-android-1.png?fit=436%2C333&ssl=1",
-            "description": "Best Tech News Mobile Apps For Android in 2022Just like some browsers on your device will alluse, and also you can easily bookmark your favorite tech news article. These are some of the best Android apps to read tech news articles. Also, I’ll make it clear now, the list starts from the best to the least, I arranged them based on their popularity and user reviews.#1. Google News #2. Flipboard #3. Gadgets 360 #4. CNET #5. TechCrunch #6. Feedly ",
+            "description": "Best Tech News Mobile Apps For Android in 2022Just like some browsers on your device will alluse, and also you can easily bookmark your favorite tech news article. These are some of the best Android apps to read tech news articles. Also, I’ll make it clear now on their popularity and user reviews.#1. Google News #2. Flipboard #3. Gadgets 360 #4. CNET #5. TechCrunch #6. Feedly ",
             "category": "Technology",
             "date": "/October 27, 2021",
             "id": "49"
@@ -60,7 +60,7 @@ const DetailB = (props) => {
 
 
         {
-            "title": "Virat Kohli and Anushka Sharma appeal to paparazzi to not click their daughter’s picture",
+            "title": "Virat and Anushka appeal to paparazzi to not click their daughter’s picture",
             "category": "Bollywood",
             "description": "Mumbai, January 13: Actor-producer Anushka Sharma and her cricketer-husband Virat Kohli on Wednesday (January 13) urged paparazzi to not click photos of their newborn daughter. Kohli had announced the arrival of their first child on January 11, saying that both the baby and Sharma were healthy.",
             "image": "https://www.mykhel.com/img/2021/01/kohli-aushka-1610525810.jpg",
@@ -246,7 +246,7 @@ const DetailB = (props) => {
         {
             "title": "India’s hobbling 5G spectrum auction gait",
             "category": "Technology",
-            "description": "Telecom operators must be ready to buy 5G compatible spectrum bands at competitive rates to ensure a boom of subscribers India’s 5G moment is yet to arrive while several countries all over the world have rolled out their next generation mobile networks. The Asian nation is one of the few major countries without a 5G network, according to Ookla’s 5G network tracker. It accompanies neighbours Pakistan, Afghanistan, Nepal, and Bangladesh to stay in the list of countries .",
+            "description": "Telecom operators must be ready to buy 5G compatible spectrum bands at competitive rates to ensure a boom of subscribers India’s 5G moment countries all over the world have rolled out their next generation mobile networks. It accompanies neighbours Pakistan, Afghanistan, Nepal, and Bangladesh to stay in the list of countries .",
             "image": "https://www.thehindu.com/incoming/9y72yl/article65475320.ece/alternates/FREE_1200/IMG_iStock-889321368_2_1_GB9S62G7.jpg",
             "id": "23",
             "date": "/June 21, 2022",
@@ -264,25 +264,25 @@ const DetailB = (props) => {
         {
             "title": "OnePlus Nord Buds review: Economical and efficient",
             "category": "Technology",
-            "description": "With its comfortable fit, satisfactory sound, IP55 dust and water-resistance, and an excellent battery life, OnePlus’s latest TWS offers bang for your buck These days, smartphones mutate faster than viruses capable of causing a pandemic. First, we get a regular version. Then, a pro version. Next, Then, a slight variation of the budget version… And, all this within one brand. OnePlus is one of the perpetrators of this overfeeding of smartphones.",
+            "description": "With its comfortable fit, satisfactory sound, IP55 dust and water-resistanc faster than viruses capable of causing a pandemic. First, we get a regular version all this within one brand. OnePlus is one of the perpetrators of this overfeeding of smartphones.",
             "image": "https://www.thehindu.com/incoming/fbtxpp/article65475219.ece/alternates/FREE_1200/OnePlus%20Nord%20Earbuds.jpg",
             "id": "25",
             "date": "/March 29, 2022",
             "art": "https://www.thehindu.com/sci-tech/technology/gadgets/oneplus-nord-buds-review/article65475225.ece"
         },
         {
-            "title": "Explained | What are the new rules for VPN providers and how do they impact your privacy?",
+            "title": "Explained | What are the new rules for VPN providers?",
             "category": "Technology",
-            "description": "On April 28, the Cert-In issued norms under which VPN providers have to record personal information of their customers, including purpose of using service, for five years The story so far: The new rules issued by the Indian Computer Emergency Response Team (CERT-In) for Virtual Private Network providers could spell doom for the privacy of Indian internet users. Amidst strong pushback from various corners, the Central government tells the companies to either comply with rules or exit from India. ",
+            "description": "On April 28, the Cert-In issued norms under which VPN providers have to record personal information of their customers, including purpose of using service, for five years The story so far. Amidst strong pushback from various corners, the Central government tells the companies to either comply with rules or exit from India. ",
             "image": "https://www.thehindu.com/incoming/tw7dnv/article65143614.ece/alternates/FREE_1200/IMG_bl02Sept_VPN_pix_2_1_MG8UG5GP.jpg",
             "id": "26",
             "date": "/May 31, 2022",
             "art": "https://www.thehindu.com/sci-tech/technology/explained-what-are-the-new-rules-for-vpn-providers-and-how-it-impacts-your-privacy/article65429398.ece"
         },
         {
-            "title": "For the first time, India Post delivers mail using drone in Gujarat under pilot project",
+            "title": "India Post delivers mail using drone in Gujarat under pilot project",
             "category": "Technology",
-            "description": "It took the drone used by the Department of Posts 25 minutes for the parcel to reach it’s destination located 46 km from the originating pointThe Department of Posts has for the first time delivered mail using a drone as part of a pilot project in Gujarat's Kutch district, covering a distance of 46 km in 25 minutes, officials said on Sunday. The mail was sent by the drone from Habay village in Bhuj taluka to Ner village in Bhachau taluka of Kutch district by the postal department under the guidance of the Union Ministry of Communications, a release issued by the Press Information Bureau (PIB) in Ahmedabad said.",
+            "description": "It took the drone used by the Department of Posts 25 minutes for the parcel to reach it’s destination located 46 km from the originating pointThe Department Bhuj taluka to Ner village in Bhachau taluka of Kutch district by the postal department under the guidance of the Union Ministry of Communications, a release issued by the Press Information Bureau (PIB) in Ahmedabad said.",
             "image": "https://www.thehindu.com/news/national/c6hl02/article65473422.ece/alternates/FREE_1200/FT04gktUcAUpnjt.jpg",
             "id": "27",
             "date": "/March 4, 2022",
@@ -300,7 +300,7 @@ const DetailB = (props) => {
         {
             "title": "Musk sued by Twitter investors for delayed disclosure of stake",
             "category": "Technology",
-            "description": "“Mr. Musk engaged in market manipulation and bought Twitter stock at an artificially low price.”Billionaire Elon Musk was sued by Twitter Inc investors for delayed disclosure of his stake in the social media company in a complaint filed on Wednesday in California federal court. The investors said Mr. Musk saved himself $156 million by failing to disclose that he had purchased more than 5% of Twitter by March 14. He continued to buy stock after that, and ultimately disclosed in early April that he owned 9.2% of the company.",
+            "description": "“Mr. Musk engaged in market manipulation and bought Twitter stock at an artificially low price.”Billionaire Elon Musk was sued by Twitter Inc investors for delayed disclosure of  He continued to buy stock after that, and ultimately disclosed in early April that he owned 9.2% of the company.",
             "image": "https://www.thehindu.com/incoming/4d007v/article65464605.ece/alternates/FREE_1200/AFP_329U7KB.jpg",
             "id": "29",
             "date": "/March 21, 2022",
@@ -309,7 +309,7 @@ const DetailB = (props) => {
         {
             "title": "IISc develops device to improve data encryption",
             "category": "Technology",
-            "description": "IISc will provide better protection for sensitive digital data such as credit card details, passwords, and more using the true random number generator (TRNG) device A team at the Department of Electrical Communication Engineering (ECE), Indian Institute of Science (IISc) has developed a true random number generator (TRNG), which, the team says, can improve data encryption",
+            "description": "IISc will provide better protection for sensitive digital data such as credit card details, passwords, A team at the Department of Electrical Communication Engineering (ECE), Indian Institute of Science (IISc) has developed a true random number generator (TRNG), which, the team says, can improve data encryption",
             "image": "https://www.thehindu.com/incoming/8qut24/article65467665.ece/alternates/FREE_1200/IMG_PO01_Laptop_2_1_6U8QT0M3.jpg",
             "id": "30",
             "date": "/April 5, 2022",
