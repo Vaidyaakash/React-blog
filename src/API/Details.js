@@ -60,7 +60,7 @@ const DetailB = (props) => {
 
 
         {
-            "title": "Virat and Anushka appeal to paparazzi to not click their daughter’s picture",
+            "title": "Virat and Anushka appeal to not click their daughter’s picture",
             "category": "Bollywood",
             "description": "Mumbai, January 13: Actor-producer Anushka Sharma and her cricketer-husband Virat Kohli on Wednesday (January 13) urged paparazzi to not click photos of their newborn daughter. Kohli had announced the arrival of their first child on January 11, saying that both the baby and Sharma were healthy.",
             "image": "https://www.mykhel.com/img/2021/01/kohli-aushka-1610525810.jpg",
@@ -68,7 +68,7 @@ const DetailB = (props) => {
             "id": "1"
         },
         {
-            "title": "‘Commando 3’ song ‘Tera Baap Aaya’: Vidyut Jammwal starrer is all about attitude and swagger",
+            "title": "Vidyut Jammwal starrer is all about attitude and swagger",
             "category": "Bollywood",
             "description": "After releasing the trailer around two weeks ago, the makers of the upcoming film Commando 3 have released the first song of the film today Titled Tera Baap Aaya the rapping number is all about attitude and sagger.",
             "image": "https://www.theindianwire.com/wp-content/uploads/2019/11/Commando-3-Poster.jpg",
@@ -121,7 +121,7 @@ const DetailB = (props) => {
             "art": "https://www.thehindu.com/entertainment/movies/anek-movie-review-anubhav-sinha-launches-anincisive-inquiryinto-a-disturbing-truth/article65466338.ece"
         },
         {
-            "title": "Vivek Athreya: ‘Ante Sundaraniki’ is Nani-Nazriya’s romance and a social commentary",
+            "title": "Vivek Athreya: ‘Ante Sundaraniki’ is Nani-Nazriya’s romance",
             "category": "Bollywood",
             "description": "Writer-director Vivek Athreya opens up on the Nani-Nazriya Telugu film ‘Ante Sundaraniki’, which he terms as a contemporary social commentary Vivek Athreya, the Telugu writer-director who debuted with the romance drama Mental Madhilo and followed it up with the black comedy Brochevarevarura, is one of the promising new voices of Telugu cinema.",
             "image": "https://www.thehindu.com/incoming/asu08v/article65479855.ece/alternates/FREE_1200/vivek%20athreya%20%281%29.jpg",
@@ -130,7 +130,7 @@ const DetailB = (props) => {
             "art": "https://www.thehindu.com/entertainment/movies/vivek-athreya-ante-sundaraniki-is-nani-nazriyas-romance-and-a-social-commentary/article65479275.ece"
         },
         {
-            "title": "‘Laal Singh Chaddha’ movie trailer: Aamir Khan channels Tom Hanks in ‘Forrest Gump’ remake",
+            "title": "‘Laal Singh Chaddha’: Aamir Khan channels in ‘Forrest Gump’",
             "category": "Bollywood",
             "description": "The film is directed by Advait Chandan, and adapted for Indian screens by Atul Kulkarni, from the original screenplay by Eric Roth. The trailer of Aamir Khan’s much-anticipated drama Laal Singh Chaddha was released on Sunday, during the IPL 2022 finale. The film is an official Hindi adaptation of the Academy Award-winning 1994 film Forrest Gump, which had Tom Hanks in the lead role. The other prominent cast members include Kareena Kapoor Khan, Mona Singh and Naga Chaitanya.",
             "image": "https://www.thehindu.com/entertainment/movies/2a8n5u/article65475497.ece/alternates/FREE_1200/laal.jpeg",
@@ -169,7 +169,7 @@ const DetailB = (props) => {
             "art": "https://www.thehindu.com/news/international/monkeypox-kills-9-in-congo-first-death-in-nigeria-in-2022/article65476318.ece"
         },
         {
-            "title": "The new laws relating to surrogacy and assisted reproduction, and related challenges",
+            "title": "Relating to surrogacy and assisted reproduction challenges",
             "category": "Health",
             "description": "A couple has moved the Bombay High Court in a case related to the Surrogacy Act enacted in December last year On May 18, the Bombay High Court sought Mumbai-based Hinduja Hospital’s reply after a couple moved the court seeking to complete a surrogacy procedure, which commenced before Parliament passed the Assisted Reproductive Technologies (ART) Act and the Surrogacy Act in December 2021.",
             "image": "https://www.thehindu.com/todays-paper/tp-opinion/6fevea/article28742321.ece/alternates/FREE_1200/29thvijaita-siGH067KTA83jpgjpg",
@@ -214,7 +214,7 @@ const DetailB = (props) => {
             "art": "https://www.thehindu.com/news/national/india-logs-2124-covid-cases-in-a-day-17-deaths/article65459287.ece"
         },
         {
-            "title": "Govt plans to repurpose CoWIN for its Universal Immunisation Programme",
+            "title": "Govt plans for its Universal Immunisation Programme",
             "category": "Health",
             "description": "Under the Universal Immunisation Programme, the government provides shots for 12 vaccine-preventable diseases The Union government is planning to repurpose the Co-WIN platform for India's Universal Immunisation Programme and other national health programmes while continuing with its current function of recording Covid vaccination and issuing certificates. The vaccination record under the Universal Immunisation Programme (UIP) is now maintained manually.",
             "image": "https://www.thehindu.com/news/national/30fo2e/article38391462.ece/alternates/FREE_1200/vbk-cowin-portal-aadhaar-vijay-soneji",
@@ -223,7 +223,7 @@ const DetailB = (props) => {
             "art": "https://www.thehindu.com/news/national/govt-plans-to-repurpose-cowin-for-its-universal-immunisation-programme/article65466300.ece"
         },
         {
-            "title": "In first year of lockdown, more died of other respiratory diseases than COVID-19",
+            "title": "In first year of lockdown, more died of other respiratory diseases",
             "category": "Health",
             "description": "The medical certification of cause of death report says that 1,60,618 deaths in 2020 were due to COVID-19 which differs from government’s official toll of 1.49 lakh. The first year of COVID-19 lockdown saw the highest incidences of persons dying of respiratory illnesses in a decade, the 2020 report on medical certification of cause of death (MCCD) compiled by the Registrar General of India (RGI) says. In 2020, as many as 1,81,160 deaths occurred due to respiratory diseases such as pneumonia, asthma and bronchitis, higher than 1,52,311 such deaths reported in 2019. ",
             "image": "https://www.thehindu.com/incoming/fdgxx9/article65463408.ece/alternates/FREE_1200/IMG_9127_21-10-2020_19-4_2_1_QU9HISQ4.jpg",
@@ -232,7 +232,7 @@ const DetailB = (props) => {
             "art": "https://www.thehindu.com/news/national/govt-plans-to-repurpose-cowin-for-its-universal-immunisation-programme/article65466300.ece"
         },
         {
-            "title": "Revamped Ayushman Bharat Health Account mobile application launched",
+            "title": "Revamped Ayushman Bharat Health Account application launched",
             "category": "Health",
             "description": "ABHA app has a new user interface and added functionalities that enable individuals to access their health records anytime and anywhere The National Health Authority (NHA), under its flagship scheme of Ayushman Bharat Digital Mission (ABDM), on Tuesday announced the launch of a revamped Ayushman Bharat Health Account (ABHA) mobile application. The ABHA app, previously known as NDHM Health Records app, is available for download from Google Play Store and already has over four lakh downloads.",
             "image": "https://www.thehindu.com/news/national/vuir72/article65456099.ece/alternates/FREE_1200/abha%20app.jpg",
@@ -253,7 +253,7 @@ const DetailB = (props) => {
             "art": "https://www.thehindu.com/sci-tech/technology/indias-hobbling-5g-spectrum-auction-gait/article65479943.ece"
         },
         {
-            "title": "Israeli private detective used Indian hackers in job for Russian oligarchs",
+            "title": "Israeli private detective used Indian hackers for Russian oligarchs",
             "category": "Technology",
             "description": "Independent journalist Scott Stedman told a court in New York that jailed private detective Aviram Azari worked on surveillance and cyber-intelligence operations at the behest of Russian oligarchs.  a reporter said in a court filing late Wednesday.",
             "image": "https://www.thehindu.com/sci-tech/technology/d5pfq9/article65475331.ece/alternates/FREE_1200/isinaid.jpg",
@@ -319,7 +319,7 @@ const DetailB = (props) => {
         // Sports
 
         {
-            "title": "ISSF World Cup | Elavenil, Ramita and Shreya win gold in 10m air rifle team event",
+            "title": "Elavenil, Ramita and Shreya win gold in 10m air rifle",
             "category": "Sports",
             "description": "Elavenil Valarivan, Ramita and Shreya Agrawal outplayed Denmark 17-5 in the gold medal contest of the 10m air rifle team women’s event at the ISSF World Cup India opened their account at Shreya Agrawal claiming the gold medal in the 10m air rifle team women competition in Baku, Azerbaijan.",
             "image": "https://www.thehindu.com/incoming/i286my/article65479857.ece/alternates/FREE_1200/PTI05_31_2022_000098B.jpg",
@@ -328,7 +328,7 @@ const DetailB = (props) => {
             "art": "https://www.thehindu.com/sport/other-sports/issf-world-cup-elavenil-ramita-and-shreya-win-gold-in-10m-air-rifle-team-event/article65479826.ece"
         },
         {
-            "title": "Heartbreak for India, draw 4-4 with Korea to go out of Asia Cup title race",
+            "title": "Heartbreak draw 4-4 with Korea to go out of Asia Cup title race",
             "category": "Sports",
             "description": "Malaysia's 5-0 win over Japan early in the day meant that an outright win became a pre-requisite impressive and fast-paced hockey in a Super 4s match against South Korea but an outright victory eluded them as a 4-4 draw pushed them out of the Asia Cup title race, in Jakarta on Tuesday.",
             "image": "https://www.thehindu.com/incoming/7evx0c/article65480709.ece/alternates/FREE_1200/PTI05_23_2022_000231A.jpg",
@@ -337,7 +337,7 @@ const DetailB = (props) => {
             "art": "https://www.thehindu.com/sport/hockey/heartbreak-for-india-draw-4-4-with-korea-to-go-out-of-asia-cup-title-race/article65480591.ece"
         },
         {
-            "title": "French Open | Rohan Bopanna makes first Grand Slam semifinal since 2015 Wimbledon",
+            "title": "Rohan Bopanna makes first Grand Slam semifinal since 2015",
             "category": "Sports",
             "description": "Rohan Bopanna and Matwe Middelkoop will face 12th seeds Marcelo Arevalo and Jean-Julien Roger on June 2 in the last four India’s Rohan Bopanna reached his first Grand Slam semifinal in seven years after he and his Dutch partner Matwe Middelkoop rallied to beat Lloyd Glasspool and a hard-fought contest on May 30 night.",
             "image": "https://www.thehindu.com/incoming/bttkdx/article65479626.ece/alternates/FREE_1200/Bopanna_GettyImages-1303098964.jpg",
@@ -355,7 +355,7 @@ const DetailB = (props) => {
             "art": "https://www.thehindu.com/sport/karthik-excels-mixed-bag-for-tn-players/article65481199.ece"
         },
         {
-            "title": "Asia Cup hockey | Malaysia holds India to draw but Sardar Singh's men inch closer to final",
+            "title": "Malaysia holds India to draw inch closer to final",
             "category": "Sports",
             "description": "India had earlier defeated Japan 2-1 in their first match on Saturday. India almost clinched the title round berth before Razie Rahim turned out to be Malaysia's saviour with a hat-trick in an enthralling 3-3 draw in a 'Super 4' encounter of Asia Cup hockey tournament in Jakarta on Sunday.",
             "image": "https://www.thehindu.com/sport/hockey/vi1bkt/article65473592.ece/alternates/FREE_1200/India-Malaysia.JPG",
@@ -373,7 +373,7 @@ const DetailB = (props) => {
             "art": "https://www.thehindu.com/sport/kiran-pahal/article65480972.ece"
         },
         {
-            "title": "Neeraj Chopra wants to repeat Tokyo Olympics approach in World Championships",
+            "title": "Neeraj Chopra wants to repeat Tokyo Olympics",
             "category": "Sports",
             "description": "Chopra is currently training at Kuortane Olympic Training Centre in Finland, where he reached on Thursday after shifting base from Turkey. A World Championships medal is definitely in his mind, but star javelin thrower Neeraj Chopra which did the trick for him during the Tokyo Olympics.",
             "image": "https://www.thehindu.com/sport/athletics/cscay7/article65470443.ece/alternates/FREE_1200/IMG_1332883440.jpg_2_1_SV9Q4MUU.jpg",
@@ -421,7 +421,7 @@ const DetailB = (props) => {
             "art": "https://swirlster.ndtv.com/travel/top-5-places-to-visit-in-ladakh-in-summer-2022-2931950"
         },
         {
-            "title": "Are The Mountains Calling? Head To These Hill Stations From Delhi To Avoid The Summer Heat",
+            "title": "Head To Hill Stations From Delhi To Avoid The Summer Heat",
             "category": "Tourism",
             "description": "Here's a list of hill stations you can visit from Delhi. Have the Delhi summers got you reaching for chilled water all day long? We can surely relate. With soaring temperatures reaching 40 degree Celsius, everyone is looking for an escape. It is time to use up those saved holidays and plan a summer trip! Plan a getaway and revitalise your mind",
             "image": "https://c.ndtvimg.com/2022-05/n98va0io_hill-stations_625x300_13_May_22.jpg",
@@ -448,7 +448,7 @@ const DetailB = (props) => {
             "art": "https://swirlster.ndtv.com/travel/jaipur-a-voyage-through-history-and-royalty-2884713"
         },
         {
-            "title": "'Absolute Nonsense': Tourists Driving SUV Through Ladakh's Pangong Lake Angers Internet",
+            "title": "'Absolute Nonsense': Tourists Driving SUV Through Ladakh's",
             "category": "Tourism",
             "description": "Some users demanded the police take action against the tourists who are seen smiling while driving on the Pangong Lakebed. Ladakh is a beautiful place. In fact, it is one of the most preferred tourist destinations in the country. But some tourists often leave the place dirty with their irresponsible behaviour.",
             "image": "https://c.ndtvimg.com/2022-04/lnv8tpog_ladakh-tourists-pangong-lake-driving-650_625x300_11_April_22.jpg",
@@ -466,7 +466,7 @@ const DetailB = (props) => {
             "art": "https://www.ndtv.com/india-news/20-cancellations-tourism-1st-economic-casualty-of-omicron-5-points-2635095"
         },
         {
-           "title": "Nagaland Has No Tourist Office In Districts, Reveals House Panel Report",
+           "title": "Nagaland Has No Tourist Office In Districts Panel Report",
             "category": "Tourism",
             "description": "This was revealed by a report of the Nagaland Legislative Assembly Committee on Estimates, which was tabled in the House during the winter session which was concluded on Friday. Kohima: The Nagaland Tourism Department, famous for hosting the annual Hornbill Festival which attracts a large number of domestic and international visitors.",
             "image": "https://c.ndtvimg.com/2020-04/9al6p5h8_nagaland-generic_625x300_12_April_20.jpg",
