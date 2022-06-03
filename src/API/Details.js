@@ -321,7 +321,7 @@ const DetailB = (props) => {
         {
             "title": "ISSF World Cup | Elavenil, Ramita and Shreya win gold in 10m air rifle team event",
             "category": "Sports",
-            "description": "Elavenil Valarivan, Ramita and Shreya Agrawal outplayed Denmark 17-5 in the gold medal contest of the 10m air rifle team women’s event at the ISSF World Cup India opened their account at the ongoing ISSF World Cup with the trio of Elavenil Valarivan, Ramita and Shreya Agrawal claiming the gold medal in the 10m air rifle team women competition in Baku, Azerbaijan.",
+            "description": "Elavenil Valarivan, Ramita and Shreya Agrawal outplayed Denmark 17-5 in the gold medal contest of the 10m air rifle team women’s event at the ISSF World Cup India opened their account at Shreya Agrawal claiming the gold medal in the 10m air rifle team women competition in Baku, Azerbaijan.",
             "image": "https://www.thehindu.com/incoming/i286my/article65479857.ece/alternates/FREE_1200/PTI05_31_2022_000098B.jpg",
             "id": "31",
             "date": "/February 10, 2022",
@@ -330,7 +330,7 @@ const DetailB = (props) => {
         {
             "title": "Heartbreak for India, draw 4-4 with Korea to go out of Asia Cup title race",
             "category": "Sports",
-            "description": "Malaysia's 5-0 win over Japan early in the day meant that an outright win became a pre-requisite for India to qualify for the final. The young Indian hockey team dished out some impressive and fast-paced hockey in a Super 4s match against South Korea but an outright victory eluded them as a 4-4 draw pushed them out of the Asia Cup title race, in Jakarta on Tuesday.",
+            "description": "Malaysia's 5-0 win over Japan early in the day meant that an outright win became a pre-requisite impressive and fast-paced hockey in a Super 4s match against South Korea but an outright victory eluded them as a 4-4 draw pushed them out of the Asia Cup title race, in Jakarta on Tuesday.",
             "image": "https://www.thehindu.com/incoming/7evx0c/article65480709.ece/alternates/FREE_1200/PTI05_23_2022_000231A.jpg",
             "id": "32",
             "date": "/April 15, 2022",
@@ -339,7 +339,7 @@ const DetailB = (props) => {
         {
             "title": "French Open | Rohan Bopanna makes first Grand Slam semifinal since 2015 Wimbledon",
             "category": "Sports",
-            "description": "Rohan Bopanna and Matwe Middelkoop will face 12th seeds Marcelo Arevalo and Jean-Julien Roger on June 2 in the last four India’s Rohan Bopanna reached his first Grand Slam semifinal in seven years after he and his Dutch partner Matwe Middelkoop rallied to beat Lloyd Glasspool and Henri Heliovaara in the men’s doubles quarterfinals of the French Open, in Paris. The Indo-Dutch pair eked out a 4-6 6-4 7-6 (3) win over the British-Finnish combination in a hard-fought contest on May 30 night.",
+            "description": "Rohan Bopanna and Matwe Middelkoop will face 12th seeds Marcelo Arevalo and Jean-Julien Roger on June 2 in the last four India’s Rohan Bopanna reached his first Grand Slam semifinal in seven years after he and his Dutch partner Matwe Middelkoop rallied to beat Lloyd Glasspool and a hard-fought contest on May 30 night.",
             "image": "https://www.thehindu.com/incoming/bttkdx/article65479626.ece/alternates/FREE_1200/Bopanna_GettyImages-1303098964.jpg",
             "id": "33",
             "date": "/May 25, 2022",
@@ -348,7 +348,7 @@ const DetailB = (props) => {
         {
             "title": "Karthik excels, mixed bag for TN players ",
             "category": "Sports",
-            "description": "R. Ashwin holds his own, Sai Kishore and Sai Sudharsan draw attention; Varun and Shahrukh disappoint He was a fireball at the end of an innings. The pocket powerhouse innovated, created and invariably took his team past the finish line. Given the role of the Finisher by Royal Challengers Bangalore, Dinesh Karthik, superfit at 36, throbbed with life at the death, notching up a whopping 330 runs with whiplash hits at an astonishing strike rate of 183.33.",
+            "description": "R. Ashwin holds his own, Sai Kishore and Sai Sudharsan draw attention; Varun and Shahrukh disappoint He was a fireball at the end of an innings. The pocket powerhouse innovated, Royal Challengers Bangalore, Dinesh Karthik, superfit at 36, throbbed with life at the death, notching up a whopping 330 runs with whiplash hits at an astonishing strike rate of 183.33.",
             "image": "https://www.thehindu.com/incoming/ppbde1/article65481212.ece/alternates/FREE_1200/PTI05_25_2022_000237A.jpg",
             "id": "34",
             "date": "/June 1, 2022",
@@ -357,7 +357,7 @@ const DetailB = (props) => {
         {
             "title": "Asia Cup hockey | Malaysia holds India to draw but Sardar Singh's men inch closer to final",
             "category": "Sports",
-            "description": "India had earlier defeated Japan 2-1 in their first match on Saturday. India almost clinched the title round berth before Razie Rahim turned out to be Malaysia's saviour with a hat-trick in an enthralling 3-3 draw in a 'Super 4' encounter of Asia Cup hockey tournament in Jakarta on Sunday. Rahim (12th, 21st, 56th minutes) converted three penalty corners for Malaysia, while India made a valiant fightback after being two goals down",
+            "description": "India had earlier defeated Japan 2-1 in their first match on Saturday. India almost clinched the title round berth before Razie Rahim turned out to be Malaysia's saviour with a hat-trick in an enthralling 3-3 draw in a 'Super 4' encounter of Asia Cup hockey tournament in Jakarta on Sunday.",
             "image": "https://www.thehindu.com/sport/hockey/vi1bkt/article65473592.ece/alternates/FREE_1200/India-Malaysia.JPG",
             "id": "35",
             "date": "/January 15, 2022",
@@ -375,7 +375,7 @@ const DetailB = (props) => {
         {
             "title": "Neeraj Chopra wants to repeat Tokyo Olympics approach in World Championships",
             "category": "Sports",
-            "description": "Chopra is currently training at Kuortane Olympic Training Centre in Finland, where he reached on Thursday after shifting base from Turkey. A World Championships medal is definitely in his mind, but star javelin thrower Neeraj Chopra on Saturday said he will go into the showpiece in July without taking too much pressure, which did the trick for him during the Tokyo Olympics.",
+            "description": "Chopra is currently training at Kuortane Olympic Training Centre in Finland, where he reached on Thursday after shifting base from Turkey. A World Championships medal is definitely in his mind, but star javelin thrower Neeraj Chopra which did the trick for him during the Tokyo Olympics.",
             "image": "https://www.thehindu.com/sport/athletics/cscay7/article65470443.ece/alternates/FREE_1200/IMG_1332883440.jpg_2_1_SV9Q4MUU.jpg",
             "id": "37",
             "date": "/Feb 5, 2022",
@@ -384,7 +384,7 @@ const DetailB = (props) => {
         {
             "title": "Champions League final kick-off delayed 'for security reasons'",
             "category": "Sports",
-            "description": "Supporters tried to force their way through the first ticket checkpoint outside the stadium. The Champions League final between Liverpool and Real Madrid in Paris kicked off over half an hour later than scheduled having been delayed 'due to a security issue', UEFA said on Saturday. The match was supposed to kick off at 12:30 a.m. (1900 GMT) at the Stade de France but announcements in the ground said the hold up was caused by the 'late arrival' of supporters.",
+            "description": "Supporters tried to force their way through the first ticket checkpoint outside the stadium. The Champions League final between Liverpool and Real Madrid in Paris kicked off over half an hour later than scheduled having been delayed 'due to a security issue', UEFA said on Saturday. announcements in the ground said the hold up was caused by the 'late arrival' of supporters.",
             "image": "https://www.thehindu.com/incoming/xxa9lg/article65471555.ece/alternates/FREE_1200/1399792641.jpg",
             "id": "38",
             "date": "/May 1, 2022",
@@ -414,7 +414,7 @@ const DetailB = (props) => {
         {
             "title": "Top Places To Visit In Ladakh In Summer 2022",
             "category": "Tourism",
-            "description": "An enchanting town and popular vacation destination, there are many splendid places to visit in Ladakh in summer. In recent years, Ladakh has gained popularity as a vacation spot for all types of travelers, including adventure enthusiasts, nature lovers, history fanatics, and religious followers. It has become the ultimate destination for experiencing bliss in the lap of Mother Nature.",
+            "description": "An enchanting town and popular vacation destination, there are many splendid places to visit in Ladakh in summer. In recent years, Ladakh has gained popularity as a vacation spot for all types of travelers, including adventure enthusiasts, nature lovers, history fanatics. The lap of Mother Nature.",
             "image": "https://c.ndtvimg.com/2022-04/775r5m_drass_625x300_29_April_22.jpg",
             "id": "41",
             "date": "/February 1, 2022",
@@ -432,7 +432,7 @@ const DetailB = (props) => {
         {
             "title": "32.79 Lakh Foreigners Visited India In 2020 - The Lockdown Year",
             "category": "Tourism",
-            "description": "According to the annual report of the Ministry of Home Affairs for 2020-21, a total of 32,79,315 foreign nationals visited India between April 1, 2020 and December 31, 2020. New Delhi: More than 32.79 lakh foreigners, including over 61,000 Americans, visited India in 2020 when the country was on a long spell of nationwide lockdown and other restrictions due to the Covid pandemic.",
+            "description": "According to the annual report of the Ministry of Home Affairs for 2020-21, a total of 32,79,315 foreign nationals visited India between April 1, 2020 and December 31, 2020. New Delhi: More than 32.79 lakh foreigners, including over 61,000 Americans, visited India in 2020 when the country.",
             "image": "https://c.ndtvimg.com/2020-09/f451bf2g_odisha-tourism-generic-pixabay-650_625x300_27_September_20.jpg",
             "id": "43",
             "date": "/December 21, 2022",
@@ -441,7 +441,7 @@ const DetailB = (props) => {
         {
             "title": "Jaipur: A Voyage Through History And Royalty",
             "category": "Tourism",
-            "description": "Major places to see in and around Jaipur speak out loud of the city's cultural heritage include the iconic Jal Mahal, enthralling Neemrana Palace, and Chhatris of Gaitore. The socio-political and historical city of Jaipur is known to have scores of beautiful tourist places to rejuvenate you in a short span of time.",
+            "description": "Major places to see in and around Jaipur speak out loud of the city's cultural heritage include the iconic Jal Mahal, enthralling Neemrana Palace, and Chhatris of Gaitore. The historical city of Jaipur is known to have scores of beautiful tourist places to rejuvenate you in a short span of time.",
             "image": "https://c.ndtvimg.com/2022-04/pttig4m_gaitore_625x300_13_April_22.jpg",
             "id": "44",
             "date": "/January 13, 2022",
