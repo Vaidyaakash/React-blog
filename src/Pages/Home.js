@@ -45,7 +45,7 @@ const Home = () => {
                 title={c.title}
                 description={c.description}
                 date={c.date}
-                cat={c.category} />)
+                category={c.category} />)
           })}
           {response.filter((e) => (e.category === "Technology" && e.id === "111")).map((c) => {
             return (
@@ -55,7 +55,7 @@ const Home = () => {
                 title={c.title}
                 description={c.description}
                 date={c.date}
-                cat={c.category} />)
+                category={c.category} />)
           })}
           {response.filter((e) => (e.category === "Health" && e.id === "1111")).map((c) => {
             return (<Block
@@ -64,7 +64,7 @@ const Home = () => {
               title={c.title}
               description={c.description}
               date={c.date}
-              cat={c.category} />)
+              category={c.category} />)
           })}
         </div>
       </section>
