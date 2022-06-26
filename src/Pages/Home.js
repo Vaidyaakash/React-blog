@@ -4,18 +4,15 @@ import { store } from '../API/Details';
 import Block from '../Blocks/Block';
 import Block2 from '../Blocks/Block2';
 import Block3 from '../Blocks/Block3';
-import { useLocation } from 'react-router-dom';
 
 
 
 const Home = () => {
-  const loc = useLocation();
-  console.log(loc);
 
   const [response] = useContext(store);
 
   return (
-    <>
+    <div className='main'>
       <div className='img'>
         <span id='span'>
           {response.filter((e) => (e.id === "0")).map((c) => { return (<Link to="/tourism"> <img src={c.image} alt="Not found" className="img1" /></Link>) })}
@@ -26,10 +23,10 @@ const Home = () => {
             <div>Tourism / May 25, 2022</div>
           </span>
         </span>
-        <section>
 
+        <section>
           {response.filter((e) => (e.id === "48")).map((c) => { return (<Link to="/sports"> <img src={c.image} alt="Not found" className="img2" /></Link>) })}
-          {response.filter((e) => (e.id === "49")).map((c) => { return (<Link to="/technology"> <img src={c.image} alt="Not found" className="img3" /></Link>) })}
+          {response.filter((e) => (e.id === "49")).map((c) => { return (<Link to="/technology"> <img src={c.image} alt="Not found" className="img2" /></Link>) })}
         </section>
       </div>
 
@@ -68,39 +65,41 @@ const Home = () => {
           })}
         </div>
       </section>
+      <div id='middle_center'>
+        <div className='response2'>
+          <div className='article0'>
+            <h1 className='latest_1'>Latest Articles </h1><hr />
+            {response.filter((e) => (e.id === "14")).map((c) => { return (<Block2 ids={c.id} imgurl={c.image} description={c.description} category={c.category} date={c.date} title={c.title} />) })}<hr />
+            {response.filter((e) => (e.id === "24")).map((c) => { return (<Block2 ids={c.id} imgurl={c.image} description={c.description} category={c.category} date={c.date} title={c.title} />) })}<hr />
+            {response.filter((e) => (e.id === "5")).map((c) => { return (<Block2 ids={c.id} imgurl={c.image} description={c.description} category={c.category} date={c.date} title={c.title} />) })}<hr />
+            {response.filter((e) => (e.id === "39")).map((c) => { return (<Block2 ids={c.id} imgurl={c.image} description={c.description} category={c.category} date={c.date} title={c.title} />) })}<hr />
+            {response.filter((e) => (e.id === "36")).map((c) => { return (<Block2 ids={c.id} imgurl={c.image} description={c.description} category={c.category} date={c.date} title={c.title} />) })}
+          </div>
 
-      <div className='response2'>
-        <div className='article1'>
-          <h1 className='latest'>Latest Articles </h1><hr />
-          {response.filter((e) => (e.id === "14")).map((c) => { return ( <Block2 ids={c.id} imgurl={c.image} description={c.description} category={c.category} date={c.date} title={c.title} />) })}<hr />
-          {response.filter((e) => (e.id === "24")).map((c) => { return ( <Block2 ids={c.id} imgurl={c.image} description={c.description} category={c.category} date={c.date} title={c.title} />) })}<hr />
-          {response.filter((e) => (e.id === "5")).map((c) => { return ( <Block2 ids={c.id} imgurl={c.image} description={c.description} category={c.category} date={c.date} title={c.title} />) })}<hr />
-          {response.filter((e) => (e.id === "39")).map((c) => { return ( <Block2 ids={c.id} imgurl={c.image} description={c.description} category={c.category} date={c.date} title={c.title} />) })}<hr />
-          {response.filter((e) => (e.id === "36")).map((c) => { return ( <Block2 ids={c.id} imgurl={c.image} description={c.description} category={c.category} date={c.date} title={c.title} />) })}
-        </div>
-
-        <div className='article1'>
-          <h1 className='latest'> Top Post</h1><hr />
-          {response.filter((e) => (e.id === "14")).map((c) => { return ( <Block3 ids= {c.id} imgUrl={c.image} title={c.title} date={c.date} category={c.category} /> ) })}<hr />
-          {response.filter((e) => (e.id === "24")).map((c) => { return ( <Block3 ids= {c.id} imgUrl={c.image} title={c.title} date={c.date} category={c.category} /> ) })}<hr />
-          {response.filter((e) => (e.id === "5")).map((c) => { return ( <Block3 ids= {c.id} imgUrl={c.image} title={c.title} date={c.date} category={c.category} /> ) })}<hr />
-          {response.filter((e) => (e.id === "39")).map((c) => { return ( <Block3 ids= {c.id} imgUrl={c.image} title={c.title} date={c.date} category={c.category} /> ) })}<hr />
-          {response.filter((e) => (e.id === "36")).map((c) => { return ( <Block3 ids= {c.id} imgUrl={c.image} title={c.title} date={c.date} category={c.category} /> ) })}
-          <div className='adv'>
-            <h1>Advertisement</h1>
+          <div className='article1'>
+            <h1 className='latest_2'> Top Post</h1><hr />
+            {response.filter((e) => (e.id === "14")).map((c) => { return (<Block3 ids={c.id} imgUrl={c.image} title={c.title} date={c.date} description={c.description} category={c.category} />) })}<hr />
+            {response.filter((e) => (e.id === "24")).map((c) => { return (<Block3 ids={c.id} imgUrl={c.image} title={c.title} date={c.date} description={c.description} category={c.category} />) })}<hr />
+            {response.filter((e) => (e.id === "5")).map((c) => { return (<Block3 ids={c.id} imgUrl={c.image} title={c.title} date={c.date} description={c.description} category={c.category} />) })}<hr />
+            {response.filter((e) => (e.id === "39")).map((c) => { return (<Block3 ids={c.id} imgUrl={c.image} title={c.title} date={c.date} description={c.description} category={c.category} />) })}<hr />
+            {response.filter((e) => (e.id === "36")).map((c) => { return (<Block3 ids={c.id} imgUrl={c.image} title={c.title} date={c.date} description={c.description} category={c.category} />) })}
+            <div className='adv'>
+              <h1>Advertisement</h1>
+            </div>
           </div>
         </div>
+        <div></div>
       </div>
       <div className='article2'>
-        <h1 className='latest'> Latest Stories</h1><hr />
+        <h1 className='latest_3'> Latest Stories</h1><hr />
 
         <div className='latest_stories'>
-          {response.filter((e) => (e.id === "8")).map((c) => { return ( <Block ids={c.id} imgUrl={c.image} title={c.title} description={c.description} date={c.date} category={c.category} />) })}
-          {response.filter((e) => (e.id === "18")).map((c) => { return ( <Block ids={c.id} imgUrl={c.image} title={c.title} description={c.description} date={c.date} category={c.category} />) })}
-          {response.filter((e) => (e.id === "28")).map((c) => { return ( <Block ids={c.id} imgUrl={c.image} title={c.title} description={c.description} date={c.date} category={c.category} />) })}
+          {response.filter((e) => (e.id === "8")).map((c) => { return (<Block ids={c.id} imgUrl={c.image} title={c.title} description={c.description} date={c.date} category={c.category} />) })}
+          {response.filter((e) => (e.id === "18")).map((c) => { return (<Block ids={c.id} imgUrl={c.image} title={c.title} description={c.description} date={c.date} category={c.category} />) })}
+          {response.filter((e) => (e.id === "28")).map((c) => { return (<Block ids={c.id} imgUrl={c.image} title={c.title} description={c.description} date={c.date} category={c.category} />) })}
         </div>
       </div>
-    </>
+    </div>
   )
 }
 
