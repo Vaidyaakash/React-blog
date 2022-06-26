@@ -11,7 +11,7 @@ const Block3 = (props) => {
         <div className='block3_data'>
           <b>{title}</b>
           <div className='block3_flex'>
-            <b>{category}</b><p>{date}</p>
+            <span>{category}</span><p>{date}</p>
           </div>
         </div>
       </div>
