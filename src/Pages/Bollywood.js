@@ -8,9 +8,10 @@ const Bollywood = () => {
   const [response2] = useContext(store)
 
   return (
-    <div className='response2'>
+    <div id='res'>
+    <div className='result'>
       <div className='bollywood'>
-        <h1 className='latest'>Bollywood</h1>
+        <h1 className='latest_1'>Bollywood</h1>
         {response2.filter((e) => (e.category === "Bollywood")).map((c) => {
           return (
             <Block2
@@ -23,7 +24,7 @@ const Bollywood = () => {
         })}
       </div>
       <div className='bolly_post'>
-        <h1 className='latest'>Top Posts</h1>
+        <h1 className='latest_2'>Top Posts</h1>
 
         {response2.filter((e) => (e.category === "Bollywood" && e.id === "5")).map((c) => {
           return (<div className='bolly_right'>
@@ -37,18 +38,12 @@ const Bollywood = () => {
           )
         })}
 
-        {response2.filter((e) => (e.category === "Bollywood")).map((c) => {
-          return (
-            <Block3
-              ids= {c.id}
-              imgUrl={c.image}
-              title={c.title}              
-              description={c.description}
-              date={c.date}
-              category={c.category} />)
-        })}
+        {response2.filter((e) => (e.category === "Bollywood")).map((c) => { return (<Block3 ids={c.id} imgUrl={c.image} description={c.description} title={c.title} date={c.date} category={c.category} />) })}
+        
         <div className='adv'>Advertisement</div>
       </div>
+      </div>
+      <div></div>
     </div>
   )
 }
