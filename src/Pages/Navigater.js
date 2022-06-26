@@ -4,7 +4,8 @@ import image from "../User.png"
 
 const Navigater = () => {
   const location = useLocation();
-  const { title, img, description,date,category } = location.state;
+  const { title, img, description, date, category } = location.state;
+  console.log(location);
   return (
     <>
       <div id='block4'>
