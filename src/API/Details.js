@@ -46,14 +46,14 @@ const DetailB = (props) => {
             "date": "/January 21, 2022",
             "id": "111"
         },
-        // {
-        //     "title": "Conjunctivitis to Dry eye Syndrome",
-        //     "category": "Health",
-        //     "description": "In summers, we see a rise in individuals walking to ophthalmologists with a red eye. The scorching sun brings a lot of discomfort to your body in many forms. A few types of issues may be more likely to develop. Here are some of the common problems that your eyes suffer from in the summers.",
-        //     "image": "https://resize.indiatvnews.com/en/resize/newbucket/715_-/2022/05/eyes-1653924529.jpg",
-        //     "date": "/May 8, 2022",
-        //     "id": "1111"
-        // },
+        {
+            "title": "Conjunctivitis to Dry eye Syndrome",
+            "category": "Health",
+            "description": "In summers, we see a rise in individuals walking to ophthalmologists with a red eye. The scorching sun brings a lot of discomfort to your body in many forms. A few types of issues may be more likely to develop. Here are some of the common problems that your eyes suffer from in the summers.",
+            "image": "https://resize.indiatvnews.com/en/resize/newbucket/715_-/2022/05/eyes-1653924529.jpg",
+            "date": "/May 8, 2022",
+            "id": "1111"
+        },
 
 
         // Bollywood
