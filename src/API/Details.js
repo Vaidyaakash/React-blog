@@ -168,15 +168,15 @@ const DetailB = (props) => {
             "id": "14",
             "art": "https://www.thehindu.com/news/international/monkeypox-kills-9-in-congo-first-death-in-nigeria-in-2022/article65476318.ece"
         },
-        // {
-        //     "title": "Relating to surrogacy and assisted reproduction challenges",
-        //     "category": "Health",
-        //     "description": "A couple has moved the Bombay High Court in a case related to the Surrogacy Act enacted in December last year On May 18, the Bombay High Court sought Mumbai-based Hinduja Hospital’s reply after a couple moved the court seeking to complete a surrogacy procedure, which commenced before Parliament passed the Assisted Reproductive Technologies (ART) Act and the Surrogacy Act in December 2021.",
-        //     "image": "https://www.thehindu.com/todays-paper/tp-opinion/6fevea/article28742321.ece/alternates/FREE_1200/29thvijaita-siGH067KTA83jpgjpg",
-        //     "date": "/February 5, 2022",
-        //     "id": "15",
-        //     "art": "https://www.thehindu.com/news/national/explained-surrogacy-assisted-reproduction-in-india-laws-offence-problems/article65443258.ece"
-        // },
+        {
+            "title": "Relating to surrogacy and assisted reproduction challenges",
+            "category": "Health",
+            "description": "A couple has moved the Bombay High Court in a case related to the Surrogacy Act enacted in December last year On May 18, the Bombay High Court sought Mumbai-based Hinduja Hospital’s reply after a couple moved the court seeking to complete a surrogacy procedure, which commenced before Parliament passed the Assisted Reproductive Technologies (ART) Act and the Surrogacy Act in December 2021.",
+            "image": "https://www.thehindu.com/todays-paper/tp-opinion/6fevea/article28742321.ece/alternates/FREE_1200/29thvijaita-siGH067KTA83jpgjpg",
+            "date": "/February 5, 2022",
+            "id": "15",
+            "art": "https://www.thehindu.com/news/national/explained-surrogacy-assisted-reproduction-in-india-laws-offence-problems/article65443258.ece"
+        },
         {
             "title": "WHO: Monkeypox won't turn into pandemic, but many unknowns",
             "category": "Health",
