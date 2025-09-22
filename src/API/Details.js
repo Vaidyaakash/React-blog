@@ -42,7 +42,7 @@ const DetailB = (props) => {
             "title": "Apple to launch RealityOS for AR/VR",
             "category": "Technology",
             "description": "Apple's RealityOS will power the VR headsets and will be in a state to offer a combination of VR and AR experiences, which will help the user to immerse in virtual content along with layering virtual elements over the real-world environments.  ",
-            "image": "https://resize.indiatvnews.com/en/resize/newbucket/715_-/2022/05/vr-headset-freepik-1653918479-akash.jpg",
+            "image": "https://resize.indiatvnews.com/en/resize/newbucket/715_-/2022/05/vr-headset-freepik-1653918479.jpg",
             "date": "/January 21, 2022",
             "id": "111"
         },
